@@ -1,7 +1,8 @@
 # 台灣 Costco 線上商品情報站
 
 支援台灣好市多線上商品的資訊監測，並且整合使用 Line Notify 發送通知  
-請 [點此前往](http://costcotw-notify.github.io/) 網站
+
+### 請 [點此前往](http://costcotw-notify.github.io/) 網站
 
 <br>
 
