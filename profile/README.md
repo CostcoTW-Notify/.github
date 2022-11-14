@@ -17,7 +17,7 @@
 
 <br>
 
-![Systems Architecture](/image/CostcoTW-Notify_SD.png)
+![Systems Architecture](./image/CostcoTW-Notify_SD.png)
 
 <br>
 
