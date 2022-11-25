@@ -1,7 +1,8 @@
 # 台灣 Costco 線上商品情報站
 
 支援台灣好市多線上商品的資訊監測，並且整合使用 Line Notify 發送通知  
-請 [點此前往](http://costcotw-notify.github.io/) 網站
+
+### 請 [點此前往](http://costcotw-notify.github.io/) 網站
 
 <br>
 
@@ -17,10 +18,11 @@
 
 <br>
 
-![Systems Architecture](/image/CostcoTW-Notify_SD.png)
+![Systems Architecture](https://raw.githubusercontent.com/CostcoTW-Notify/.github/72e3b0214425b5a06ab9adc81e7e8a5999a63850/profile/image/CostcoTW-Notify_SD.png)
 
 <br>
 
+### Repository
 - [Frontend APP](https://github.com/CostcoTW-Notify/CostcoTW-Notify.github.io)
 
 - [Line-ChatRoom-Service](https://github.com/CostcoTW-Notify/Line-ChatRoom-Service)
@@ -37,8 +39,8 @@
 ## Roadmap
 
 - ~~MVP 完成~~
-- Improve - 前端 RWD 優化 (針對 Mobile 裝置)
-- Maintain - 補完 Unit Test
+- ~~Improve - 前端 RWD 優化 (針對 Mobile 裝置)~~
+- ~~Maintain - 補完 Unit Test~~
 - Infra - API Gateway 導入
 - Infra - GCP PUB/SUB 導入 (針對 Microservice 之間的通訊)
 - Feature - 歷史價格查詢功能
